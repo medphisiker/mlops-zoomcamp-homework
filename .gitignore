@@ -1,0 +1,11 @@
+# ingnoring .env
+*.env
+
+# ignoring data
+*.parquet
+
+# ignoring data folders
+02-experiment-tracking/homework2/output
+
+# ignoring models folder
+02-experiment-tracking/models
