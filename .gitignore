@@ -2,7 +2,7 @@
 *.env
 
 # ignoring data
-*.parquet
+*.parquet*
 
 # ignoring data folders
 02-experiment-tracking/homework2/output
